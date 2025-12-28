@@ -49,7 +49,7 @@ const LaCorteRosso = () => {
                 RESERVE
               </h2></Link>
             </div>
-            <p className="text-md md:text-xl font-light tracking-widest uppercase mt-8 md:mt-12 opacity-80 text-goldd">
+            <p className="text-md md:text-xl font-medium tracking-widest uppercase mt-8 md:mt-12 opacity-80 text-goldd">
               An evening reserved for royalty
             </p>
           </div>
